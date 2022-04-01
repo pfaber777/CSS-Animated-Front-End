@@ -1,1 +1,1 @@
-# CSS Animated Front-End
+# Followed a tutorial for the Hamburger menu and built onto it with the grid. Learnt a lot about HTML and CSS doing this and still very much a work in progress. File structure will be better-organised soon too.
